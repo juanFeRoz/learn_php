@@ -157,3 +157,6 @@ prettyPrintArray($arrayMerged);
 
 prettyPrintArray($array);
 echo $a . ', ' . $b . ', ' . $c . ', ' . $d . '<br/>';
+
+// comment
+//
